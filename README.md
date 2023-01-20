@@ -1,12 +1,12 @@
-# Hotel-Mangement-System
-A SQL Hotel Mangement System that can track customers, hotels, rooms within hotels, customer reservations, and customer billing.
+# 🏨 Hotel-Mangement-System
 
 ### Important Links
-
 [Final Script](https://github.com/JasonDoesCode/Hotel-Mangement-System/blob/main/Procedures.sql) | [ERD](https://github.com/JasonDoesCode/Hotel-Mangement-System/blob/main/Project%20ERD.png)
 
-## Project Description
+### Socials:
+[LinkedIn](https://www.linkedin.com/in/imjasonleo/) | [Github](https://github.com/JasonDoesCode) | [Twitter](https://twitter.com/JasonDoesCode)
 
+## Project Description
 The team was charged with creating a database for U Hotels, a faux hotel chain that required a database to manage their various chains, customers, rooms, and customers. The database would at minimum need to store information on its customers (name, address, phone, credit card, etc.), the hotels that belong to the U.Hotels chain and their relevant info (address, phone, rooms), and finally be able to make reservations at any given hotel, but in a manner that would not allow for a room to be double booked for the same duration.
 
 ## Important Assumptions
